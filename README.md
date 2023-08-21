@@ -4,7 +4,7 @@
 
 📚 Currently, I'm focusing on expanding my skill set in various areas:
 
-- Machine Learning (ML)
+- Machine Learning (ML) 
 - Statistics
 - Python programming
 - Power BI
